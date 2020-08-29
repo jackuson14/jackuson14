@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem-ten-nu.vercel.app/api/spotify-playing" alt="jacksonlee Spotify Playing" width="350" />](https://open.spotify.com/user/jacksonlzc14)
 
 ### Connect with me:
 
@@ -46,10 +46,6 @@
 ### :zap: Github Stats
 
 <img align="left" alt="jackuson14 readme stats" src="https://github-readme-stats-alpha-rose.vercel.app/api?username=jackuson14&show_icons=true&hide_border=true" />
-
-
-
-
 
 
 [website]: https://jacksonlee.web.app/
