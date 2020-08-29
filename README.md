@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-ten-nu.vercel.app" alt="jacksonlee Spotify Playing" width="350" />](https://open.spotify.com/user/jacksonlzc14)
+[![Spotify](https://novatorem-ten-nu.vercel.app/api/spotify)](https://open.spotify.com/user/jacksonlzc14)
 
 ### Connect with me:
 
