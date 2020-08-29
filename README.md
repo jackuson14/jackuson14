@@ -33,13 +33,24 @@
 <br />
 
 ---
+### :zap: Recent Activity
+  
+<!--START_SECTION:activity-->
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<!--END_SECTION:activity-->
+<br />
+<br />
 
-  <img align="left" alt="jackuson14 readme stats" src="https://github-readme-stats-alpha-rose.vercel.app/api?username=jackuson14&show_icons=true&hide_border=true" />
+---
 
-</details>
+### :zap: Github Stats
+
+<img align="left" alt="jackuson14 readme stats" src="https://github-readme-stats-alpha-rose.vercel.app/api?username=jackuson14&show_icons=true&hide_border=true" />
+
+
+
+
+
 
 [website]: https://jacksonlee.web.app/
 [linkedin]: https://www.linkedin.com/in/jackson-lee-92ba20185/
