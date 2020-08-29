@@ -1,4 +1,4 @@
-### Hi there, I'm Ze-Cong - aka [Jackson Lee] [website] 👋
+### Hi there, I'm Ze-Cong - aka [Jackson Lee] 👋
 
 ## I'm a Computer Science Student + Junior Developer
 
@@ -33,13 +33,15 @@
 <br />
 
 ---
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 
+</details>
+<br />
+<br />
 
-<br />
-<br />
 
 ---
 
@@ -49,4 +51,5 @@
 
 
 [website]: https://jacksonlee.web.app/
+[Jackson Lee]: https://jacksonlee.web.app/
 [linkedin]: https://www.linkedin.com/in/jackson-lee-92ba20185/
