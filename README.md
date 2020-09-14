@@ -47,7 +47,7 @@
 
 ### :zap: Github Stats
 
-<img align="left" alt="jackuson14 readme stats" src="https://github-readme-stats-alpha-rose.vercel.app/api?username=jackuson14&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="jackuson14 readme stats" src="https://github-readme-stats-alpha-rose.vercel.app/api?username=jackuson14&show_icons=true&hide_border=true&count_private=true&theme=onedark" />
 
 
 [website]: https://jacksonlee.web.app/
