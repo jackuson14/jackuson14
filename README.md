@@ -51,5 +51,5 @@
 
 
 [website]: https://jackson-lee.web.app/
-[Jackson Lee]: https://jacksonlee.web.app/
+[Jackson Lee]: https://jackson-lee.web.app/
 [linkedin]: https://www.linkedin.com/in/jackson-lee-92ba20185/
