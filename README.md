@@ -1,8 +1,8 @@
 ### Hi there, I'm Ze-Cong - aka [Jackson Lee] 👋
 
-## I'm a Computer Science Student + Junior Developer
+## I'm a Junior Software Developer
 
-- 🔭 I’m currently working on mobile apps with React Native!
+- 🔭 I’m currently working on webapps as a fullstack developer
 
 ### Spotify Playing 🎧
 
@@ -31,19 +31,6 @@
 
 <br />
 <br />
-
----
-
-### :zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br />
-<br />
-
-
----
 
 ### :zap: Github Stats
 
